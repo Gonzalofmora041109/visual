@@ -1,0 +1,19 @@
+C:\POY3001\Solucion Cielos de Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.dll
+C:\POY3001\Solucion Cielos de Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.pdb
+C:\POY3001\Solucion Cielos de Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.dll
+C:\POY3001\Solucion Cielos de Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.pdb
+F:\Drive\U3_POO3501\Exp_10_Interface\Solucion Cielos de Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.dll
+F:\Drive\U3_POO3501\Exp_10_Interface\Solucion Cielos de Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.pdb
+F:\Drive\U3_POO3501\Exp_10_Interface\Solucion Cielos de Chile\BibliotecaPasajes\obj\Debug\ResolveAssemblyReference.cache
+F:\Drive\U3_POO3501\Exp_10_Interface\Solucion Cielos de Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.dll
+F:\Drive\U3_POO3501\Exp_10_Interface\Solucion Cielos de Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.pdb
+C:\Users\marcela\Desktop\Módulo IV .NET Corfo\POO3501 2016\PDA\U3_POO3501\U3_POO3501\Exp_10_Interface\Solucion_Cielos_de_Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.dll
+C:\Users\marcela\Desktop\Módulo IV .NET Corfo\POO3501 2016\PDA\U3_POO3501\U3_POO3501\Exp_10_Interface\Solucion_Cielos_de_Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.pdb
+C:\Users\marcela\Desktop\Módulo IV .NET Corfo\POO3501 2016\PDA\U3_POO3501\U3_POO3501\Exp_10_Interface\Solucion_Cielos_de_Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.dll
+C:\Users\marcela\Desktop\Módulo IV .NET Corfo\POO3501 2016\PDA\U3_POO3501\U3_POO3501\Exp_10_Interface\Solucion_Cielos_de_Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.pdb
+C:\Users\Gonzalo\Documents\Trabajos\Programacion\Solucion_Cielos_de_Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.dll
+C:\Users\Gonzalo\Documents\Trabajos\Programacion\Solucion_Cielos_de_Chile\BibliotecaPasajes\bin\Debug\BibliotecaPasajes.pdb
+C:\Users\Gonzalo\Documents\Trabajos\Programacion\Solucion_Cielos_de_Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Trabajos\Programacion\Solucion_Cielos_de_Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Documents\Trabajos\Programacion\Solucion_Cielos_de_Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.dll
+C:\Users\Gonzalo\Documents\Trabajos\Programacion\Solucion_Cielos_de_Chile\BibliotecaPasajes\obj\Debug\BibliotecaPasajes.pdb
